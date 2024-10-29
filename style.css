@@ -1,1 +1,23 @@
+body {
+    color: white;
+    background-color: black;
+}
+section {
+    background: rgb(184, 156, 213);
+    padding-bottom: 80px;
+            padding-top: 80px;
+            display: flex;
+    justify-content: center;
+    }
+    "chamada-texto"{
+        margin_right: 5%;
 
+    }
+    img{
+        height: 200px;
+    }
+    .categoria-vídeos{
+        display: flex;
+        overflow-x: auto;
+        gap: 40px;
+    }
